@@ -1,5 +1,5 @@
 Name     : wlr-randr
-Version  : 0.2.0
+Version  : 0.3.0
 Release  : 1
 URL      : https://git.sr.ht/~emersion/wlr-randr
 Source0  : https://git.sr.ht/~emersion/wlr-randr/archive/v%{version}.tar.gz
